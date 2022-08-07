@@ -11,7 +11,7 @@ The differences between ZNP Robin Nano V1.2 and ZNP Robin Nano V1.3 are as follo
 ————————————————————————————————————————————————————————————————————————————————————————————————————————
                         ZNP Robin Nano V1.2                                   ZNP Robin Nano V1.3            
 ————————————————————————————————————————————————————————————————————————————————————————————————————————
-Firmware support        ZNP Robin Nano V1.2 Firmware/Above Marlin2.0.6        ZNP Robin Nano V1.3/Above Marlin2.0.6    
+Firmware support        ZNP Robin Nano V1.2 Firmware/Above Marlin2.0.6        ZNP Robin Nano V1.3 Firmware/Above Marlin2.0.6    
 ————————————————————————————————————————————————————————————————————————————————————————————————————————
 LCD Type and Interface  ZNP Robin TFT35(FSMC)                                 ZNP Robin TFT35(FSMC)    
 ————————————————————————————————————————————————————————————————————————————————————————————————————————
