@@ -36,7 +36,7 @@ On board EEPROM         2KB                                                   4K
 
 
 ## Firmware version description
-- Please check the screen print on the motherboard to confirm the motherboard model and the required firmware type.
+- Please check the model version marked on the motherboard to confirm the motherboard model and the required firmware.
 
 ### ZNP_Robin_Nano_V1.2 Firmware
 - V1.0.4
