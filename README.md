@@ -1,3 +1,4 @@
+![描述](https://user-images.githubusercontent.com/64059773/190352763-4618cdfd-2b6e-4076-a8f0-586623923031.png)
 # ZNP-Robin-Nano-V1.2 & ZNP-Robin-Nano-V1.3
 ZNP Robin Nano v1.2 & V1.3 is a powerful 32-bit 3D printer control board with STM32F103VET6. Support Marlin2.0. Support ZNP Robin TFT35 V1.0 touch Screens. The mainboard integrates 5 AXIS interface, hot bed, heating head, 3 NTC100K. Support Robin WIFI for cloud printing and supports firmware update by SD card…
 
