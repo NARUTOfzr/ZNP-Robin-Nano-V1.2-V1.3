@@ -125,7 +125,7 @@
 
 >DEFAULT_X_MAX_FEEDRATE		150	#Default Axis-X Max Feed Rate (mm/s)	
 >DEFAULT_Y_MAX_FEEDRATE		150	#Default Axis-Y Max Feed Rate (mm/s)	
->DEFAULT_Z_MAX_FEEDRATE		6	#Default Axis-Z Max Feed Rate (mm/s)	
+>DEFAULT_Z_MAX_FEEDRATE		3	#Default Axis-Z Max Feed Rate (mm/s)	
 >DEFAULT_E0_MAX_FEEDRATE	70	#Default Axis-E Max Feed Rate (mm/s)		
 >DEFAULT_E1_MAX_FEEDRATE	70	#Default Axis-E Max Feed Rate (mm/s)
 
